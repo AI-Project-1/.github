@@ -5,4 +5,4 @@
 
 <div align="center">
 
-### 🧑‍💻 AI Project - AI 툴 모음 서비스 🧑‍💻
+###  Daedeulbo - AI Tool 모음 서비스 
